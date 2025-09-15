@@ -1,4 +1,5 @@
 Manifest-Version: 1.0
-Created-By: Фомин
+Created-By: Fomin
 Main-Class: MyFirstClass
+
 
